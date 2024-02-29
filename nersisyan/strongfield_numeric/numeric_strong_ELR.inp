@@ -1,0 +1,17 @@
+0.1         Minimum velocity
+5.0         Maximum velocity
+10          Temperature (eV)
+1e14        Electron density (cm^-3)
+80e3        Magnetic field (G)
+
+# parameters for Nersisyan (1998) - Fig. 1
+10          Temperature (eV)
+1e14        Electron density (cm^-3)
+50e3        Magnetic field (G)
+80e3        Magnetic field (G)
+
+# parameters for Steinberg (1998) - Fig. 2
+8.62        Temperature (eV)
+1e14        Electron density (cm^-3)
+100e3        Magnetic field (G)
+

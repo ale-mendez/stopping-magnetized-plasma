@@ -1,0 +1,24 @@
+0.1         Minimum velocity / vt
+5.0         Maximum velocity / vt
+2000        Temperature (eV)
+1e12        Electron density (cm^-3)
+10e3        Magnetic field (G)
+0.d0        Alpha - angle between v (velocity of particle) and magnetic field
+
+# parameters for Nersisyan (1998) - Fig. 1
+10          Temperature (eV)
+1e14        Electron density (cm^-3)
+50e3        Magnetic field (G)
+80e3        Magnetic field (G)
+0.d0        Alpha - angle between v (velocity of particle) and magnetic field
+
+# parameters for Steinberg (1998) - Fig. 2
+8.62        Temperature (eV)
+1e14        Electron density (cm^-3)
+100e3        Magnetic field (G)
+
+# parameters for Wang (2013) - Fig. 1a
+2000        Temperature (eV)
+1e12        Electron density (cm^-3)
+10e3        Magnetic field (G)
+0.d0        Alpha - angle between v (velocity of particle) and magnetic field
