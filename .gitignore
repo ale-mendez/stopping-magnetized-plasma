@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+other/
+*.x
+*.dat
+test*
+*figures*
+*ipynb
